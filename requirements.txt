@@ -1,2 +1,3 @@
 Django3.2
 mysqlclient2.1.0
+python3
