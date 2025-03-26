@@ -1,3 +1,2 @@
-Django3.2
-mysqlclient2.1.0
+Django==3.2
 python3
