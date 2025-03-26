@@ -1,1 +1,9 @@
 Django==3.2
+mysqlclient>=2.1.0
+djangorestframework>=3.14.0  # If using DRF
+gunicorn>=21.0.0  # For production deployments
+whitenoise>=6.5.0  # For serving static files in production
+pytest-django>=4.5.2  # For testing
+pytest>=7.4.0  # For running tests
+requests>=2.31.0  # If making API calls
+
